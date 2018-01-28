@@ -15,6 +15,7 @@ public class LaunchBrowserTest {
 		driver.findElement(By.id("pass")).sendKeys("lav888");*/
 		
 		driver.get("https://www.google.co.in");
+		driver.get("https://www.gmail.com");
 		
 	}
 
