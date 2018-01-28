@@ -17,8 +17,6 @@ public class LaunchBrowserTest {
 		driver.get("https://www.google.co.in");
 		driver.get("https://www.gmail.com");
 		
-	    System.out.println("launched all browsers");
-		
 	}
 
 }
