@@ -14,6 +14,8 @@ public class LaunchBrowserTest {
 		/*driver.findElement(By.id("email")).sendKeys("lavanyajlav");
 		driver.findElement(By.id("pass")).sendKeys("lav888");*/
 		
+		driver.get("https://www.google.co.in");
+		
 	}
 
 }
