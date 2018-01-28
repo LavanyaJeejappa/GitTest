@@ -19,6 +19,8 @@ public class LaunchBrowserTest {
 		
 		System.out.println("output statement");
 		
+		System.out.println("noooooooooo");
+		
 	}
 
 }
